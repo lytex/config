@@ -1,0 +1,9 @@
+[submodule "vscode-setup"]
+	path = vscode-setup
+	url = git@github.com:lytex/vscode-setup.git
+[submodule "doom.d"]
+	path = doom.d
+	url = git@github.com:lytex/doom.d
+[submodule "espanso"]
+	path = espanso
+	url = git@github.com:lytex/espanso
