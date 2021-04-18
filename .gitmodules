@@ -7,3 +7,6 @@
 [submodule "espanso"]
 	path = espanso
 	url = git@github.com:lytex/espanso
+[submodule "neovim"]
+	path = neovim
+	url = git@github.com:lytex/neovim
